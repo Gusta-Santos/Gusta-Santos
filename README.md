@@ -2,7 +2,7 @@
 
 Sou estudante de ciência da computação na Universidade Federal de Sergipe(UFS) - 4° período
 
-No momento estou estudando Vue.js 
+
 
 <div  align="center">
   <a href="https://github.com/Gusta-Santos">
