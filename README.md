@@ -14,7 +14,7 @@ No momento trabalho como dev front-end
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img width="40" align="center" alt="Gustavo-php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img width="40" align="center" alt="Gustavo-php" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="right" alt="cat-profile-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/da/e0/27/dae02754ebd147873ce88491b122f81d.jpg">
 </div>
   
