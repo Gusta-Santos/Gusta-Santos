@@ -1,6 +1,6 @@
 ## Olá! eu sou Gustavo Santos 
 
-Sou estudante de ciência da computação na Universidade Federal de Sergipe(UFS) - 9° período <br>
+Sou estudante de ciência da computação na Universidade Federal de Sergipe(UFS)<br>
 No momento trabalho como dev front-end
 
 
